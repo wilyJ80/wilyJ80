@@ -1,0 +1,15 @@
+- 👋 Hi, I’m Victor Hugo
+- 👀 I’m interested in Web Development, automation, and writing the best code you'll ever read in your life 😛
+- 🌱 I’m currently learning Bash scripting
+- 💻 Enjoys: C, Bash, Vim, Java, Linux
+- 💻 Currently using OS: Debian GNU/Linux 12 (bookworm) with KDE Plasma desktop environment
+- 🇧🇷 From Brazil
+- 🇺🇸 But would rather speak English
+- 🎓 Ongoing: Undergraduation in Information Systems from UNEB (State University of Bahia)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+wilyJ80/wilyJ80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
