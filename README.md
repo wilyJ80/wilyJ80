@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,docker,java,linux,neovim,vim,)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyJ80&layout=compact)
