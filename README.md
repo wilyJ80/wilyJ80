@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Hugo
 - 👀 I’m interested in Web Development, automation, and writing the best code you'll ever read in your life 😛
-- 🌱 I’m currently learning Bash scripting
+- 🌱 I’m currently learning DS&A
 - 💻 Currently using OS: Debian GNU/Linux 12 (bookworm) with KDE Plasma desktop environment
 - 🇧🇷 From Brazil
 - 🇺🇸 But would rather speak English
