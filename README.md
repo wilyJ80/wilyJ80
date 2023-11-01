@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Victor Hugo
+## Hi, I'm Victor Hugo 👋
+
 - 👀 I’m interested in Web Development, automation, and writing the best code you'll ever read in your life 😛
 - 🌱 I’m currently learning DS&A
 - 💻 Currently using OS: Debian GNU/Linux 12 (bookworm) with KDE Plasma desktop environment
@@ -13,6 +14,7 @@ wilyJ80/wilyJ80 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 ---> 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,docker,java,linux,neovim,vim,)](https://skillicons.dev)
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=bash,java,c,md,docker,linux,neovim,vim)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyJ80&layout=compact&theme=transparent)
