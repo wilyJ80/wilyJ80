@@ -17,16 +17,3 @@
 - 🎓 Ongoing: Undergraduation in Information Systems from UNEB (State University of Bahia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyJ80&layout=compact&theme=transparent)
-
-### Q4 2023 Goals
-<details>
-
-- [ ] start learning in-depth DS&A
-- [ ] automating with Python
-- [ ] becoming a pro in Git/Github
-- [ ] HTML/CSS
-- [ ] JS
-- [ ] MERN Stack
-- [ ] SQL
-
-</details>
