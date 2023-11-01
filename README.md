@@ -15,17 +15,18 @@
 - 🇧🇷 From Brazil
 - 🇺🇸 But would rather speak English
 - 🎓 Ongoing: Undergraduation in Information Systems from UNEB (State University of Bahia)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-wilyJ80/wilyJ80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
-
-<!--## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,java,c,md,docker,linux,neovim,vim)](https://skillicons.dev)
---->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilyJ80&layout=compact&theme=transparent)
-<!---
---![test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilyJ80) --->
+
+### Q4 2023 Goals
+<details>
+
+- [ ] start learning in-depth DS&A
+- [ ] automating with Python
+- [ ] becoming a pro in Git/Github
+- [ ] HTML/CSS
+- [ ] JS
+- [ ] MERN Stack
+- [ ] SQL
+
+</details>
